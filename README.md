@@ -16,14 +16,15 @@ With a strong background in **project management, volunteer coordination, event 
 📸 **Photography & Storytelling:** Owner of *Steven Antonio Photography*, capturing moments that matter.  
 📱 **Social Media Strategy:** Managing and growing digital presence for organizations.  
 
-## 🏆 Certifications & Skills  
+## 🏆 Certifications & Skills
+✅ **Business Intelligence Analyst** | TripleTen
 ✅ **Project Management**  
 ✅ **Social Media Analytics**  
 
 ## 🎯 Goals & Interests  
+- 🎯 Landing my **dream job** in data
 - 🌍 Advocating for **humanitarian work and community-building**  
 - 🛠️ Leading **big-picture projects** that make a lasting impact  
-- 🎯 Expanding my expertise in **marketing, and leadership
 
 
 ### 📫 Let's Connect!  

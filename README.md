@@ -1,6 +1,5 @@
 ## Hi there, I'm Steven, a professional data analyst
 
-<!--
 **StevenADiMascio/stevenAdimascio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # Hi there! 👋 I'm Steven Antonio DiMascio 

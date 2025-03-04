@@ -4,10 +4,7 @@ Hi! I am Steve, a professional data analyst with experience on more than 8 techn
 
 
 ## 🚀 About Me  
-I'm a new Business Intelligence Analyst, passionate **leader, project manager, and marketing communications specialist** with extensive experience in leadership, and social media strategy**. Throughout my career, I’ve worked in various roles, including:  
-
-- 🎯 **Director of Family Engagement** at Mary Queen of the Apostles Parish
-- 📢 **Director of Marketing Communications** at Alpha New England 
+I'm a new Business Intelligence Analyst, passionate **leader, project manager, and marketing communications specialist** with extensive experience in leadership, and social media strategy. 
 
 With a strong background in **project management, volunteer coordination, event planning, and digital engagement**, I specialize in building meaningful connections and leading mission-driven projects.  
 

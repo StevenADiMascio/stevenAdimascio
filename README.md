@@ -30,7 +30,6 @@ With a strong background in **project management, volunteer coordination, event 
 - 🛠️ Leading **big-picture projects** that make a lasting impact  
 - 🎯 Expanding my expertise in **marketing, and leadership
 
----
 
 ### 📫 Let's Connect!  
 💼 [LinkedIn](#) | 📸 [Photography Portfolio](#) | 📧 [Email Me](#)  

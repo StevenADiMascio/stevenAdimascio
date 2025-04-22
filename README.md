@@ -1,28 +1,42 @@
-# Hi there! 👋 I'm Steven Antonio DiMascio, Business Intelligence Analyst
+# Hi there! 👋 I'm Steven Antonio DiMascio, Business Intelligence Analyst  
 
-Hi! I am Steve, a professional data analyst with experience on more than 8 technical projects. My skills include business analytics, data visualization and storytelling, Python, SQL, and ML. Now, I am eager to leverage my big data and visualization skills into a new career. 
+Hi! I’m Steven Antonio, a data-driven project manager and business intelligence analyst passionate about transforming data into meaningful solutions. With a background in leadership, operations, and marketing communications, I bring a unique blend of strategic thinking and technical skills to every project.  
 
+Now, I'm excited to leverage my experience and tools like Tableau, SQL, and Power BI to optimize processes and empower decision-makers with insights that matter.
+
+---
 
 ## 🚀 About Me  
-I'm a new Business Intelligence Analyst, passionate **leader, project manager, and marketing communications specialist** with extensive experience in leadership, and social media strategy. 
+Business Intelligence Analyst and data-driven project manager with extensive experience in leadership, business process improvement, operations, and marketing communications. Skilled at researching, analyzing, and effectively presenting data-driven insights. Passionate about leveraging business intelligence to optimize organizational processes, create efficiencies, and deliver comprehensive business solutions.
 
-With a strong background in **project management, volunteer coordination, event planning, and digital engagement**, I specialize in building meaningful connections and leading mission-driven projects.  
+**Skills & Tools:**  
+Project Management | Tableau | Power BI | Microsoft Excel | SQL | Office 365 Admin | G-Suite | Adobe Creative Suite | Final Cut Pro | Digital Media | Social Media Strategy
+
+---
 
 ## 💡 What I Do  
-🔹 **Marketing & Communications:** Crafting strategies to enhance engagement and outreach.  
-📸 **Photography & Storytelling:** Owner of *Steven Antonio Photography*, capturing moments that matter.  
-📱 **Social Media Strategy:** Managing and growing digital presence for organizations.  
+🔹 **Business Process Optimization:** Helping organizations streamline operations through actionable insights.  
+📊 **Data Visualization & Analytics:** Building dashboards and visual stories that drive better decisions.  
+📣 **Marketing & Communications:** Elevating brand presence through targeted messaging and content.  
+📸 **Photography & Storytelling:** Owner of *Steven Antonio Photography*, specializing in capturing authentic moments.  
 
-## 🏆 Certifications & Skills
-✅ **Business Intelligence Analyst** | TripleTen
+---
+
+## 🏆 Certifications & Skills  
+✅ **Business Intelligence Analyst** – TripleTen  
 ✅ **Project Management**  
 ✅ **Social Media Analytics**  
 
-## 🎯 Goals & Interests  
-- 🎯 Landing my **dream job** in data
-- 🌍 Advocating for **humanitarian work and community-building**  
-- 🛠️ Leading **big-picture projects** that make a lasting impact  
+---
 
+## 🎯 Goals & Interests  
+- 💼 Secure a **remote-first role** in Business Intelligence Analyst at a mission-driven company
+- 🧠 Stay on the cutting edge of **tech, analytics, and data storytelling**  
+- 📈 Grow into a **Senior Data Analyst** role through continuous learning and impact
+- 🌍 Support **humanitarian and community-centered initiatives**  
+
+
+---
 
 ### 📫 Let's Connect!  
 💼 [LinkedIn](#) | 📸 [Photography Portfolio](#) | 📧 [Email Me](#)  
